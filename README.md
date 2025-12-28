@@ -1,4 +1,13 @@
-## 4️⃣ Blinkit Dashboard
+## Blinkit Dashboard
+
+### 📌 About This Project
+
+This project is designed around a quick-commerce business model, focusing on order volume, revenue, delivery efficiency, and city-level performance. The goal was to create an operations-focused dashboard that helps teams monitor performance and identify bottlenecks.
+
+By analyzing order trends and delivery metrics, the dashboard enables better capacity planning, demand forecasting, and service-level improvement. The design prioritizes speed, clarity, and operational relevance.
+
+This project demonstrates my ability to apply analytics to fast-paced, real-world business scenarios where timely insights are critical.
+
 
 ### 📌 Business Problem (WHY)
 
@@ -38,4 +47,5 @@ Quick-commerce platforms require near real-time visibility into order volumes, r
 ### 🚀 Business Impact
 
 Supports operations teams in capacity planning, demand forecasting, and service-level improvement.
+
 
